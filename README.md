@@ -5,6 +5,10 @@
 
 This is a gym tracker app which allows clients to create accounts, log in with existing accounts, see trainer information, and view and join classes. It also allows trainers to add or remove their own classes. Managers on this app are able to view a list of trainers employed by the gym, pull up an individual trainer's information, terminate a trainer's employment by removing that trainer from the database, or hire a new trainer by adding his/her information into the database. A manager can also view all classes available at the gym for the week, view class rosters, and add/remove members from class rosters.
 
+## Purpose
+
+I've worked in the fitness industry for over a decade and have used half a dozen "top" gym management applications. While many of theme have looked nicer lately, there are always glaring holes in functionality like the ability to filter prospects by how fresh they are, a usable task system for employees, and an abilities for members to log in and see how many classes they've attended. I think The world is still waiting for the "Apple" of gym apps. This project is a first step into creating such an app. It's a concept project built with other developers, with the goal of refactoring it in react in the near future and building on the functionality. 
+
 ## Deployed Application Link
 
 [Dev_Fit_Application](https://gym-logistical-tracker-duex.herokuapp.com/)
